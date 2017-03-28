@@ -1,0 +1,4 @@
+﻿  Digit Counter.cpp
+c:\users\thecoldone\documents\visual studio 2015\projects\digitcounter\digitcounter\digit counter.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  DigitCounter.vcxproj -> c:\users\thecoldone\documents\visual studio 2015\Projects\DigitCounter\Debug\DigitCounter.exe
+  DigitCounter.vcxproj -> c:\users\thecoldone\documents\visual studio 2015\Projects\DigitCounter\Debug\DigitCounter.pdb (Full PDB)
